@@ -1,21 +1,21 @@
 <div align="center">
     <h1>Hi 👋, I'm Pablo</h1>
-    <img src="https://media.licdn.com/dms/image/D4D03AQHs-KVAUGyZzw/profile-displayphoto-shrink_400_400/0/1696584996994?e=1710979200&v=beta&t=5IPIX9S4hmAlwy1Nq2F8iSoMkTj6L52dpM3Tnx0Dqrk" width="200px" style="border-radius: 100%; border: 3px solid #2aa889; box-shadow: #2aa889 10px 10px 0 2px" height="200">
+    <img src="https://media.licdn.com/dms/image/D4D03AQGskp-gUOEs0A/profile-displayphoto-shrink_400_400/0/1705580633046?e=1710979200&v=beta&t=mX3Pt3ibKobbXA1Jg5fDvhapLoiNqNsTIh1uLL_Gh98" width="200px" style="border-radius: 100%" height="200">
     <h3>A Junior Software Developer</h3>
     <h5>and Graphic Designer</h5>
     <h6>🇪🇸🇬🇧</h6>
 </div>
 
 
-- 🔭 I’m currently working on **<a href="https://www.novatec-gmbh.de/es/" style="color: #2aa889">Novatec </a>**
+- 🔭 I’m currently working on <a href="https://www.novatec-gmbh.de/es/" style="color: #2aa889">[Novatec](https://www.novatec-gmbh.de/es/) </a>
 
 - 🌱 I’m currently learning **Angular, RabbitMQ, Quarkus, Spring**
 
-- 👨‍💻 All of my projects are available at **<a href="https://github.com/PabloRoger" style="color: #2aa889">GitHub Profile </a>**
+- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/PabloRoger)
 
 - 📫 How to reach me **parovi97@gmail.com**
 
-- 📄 Know about my experiences: **<a href="https://www.linkedin.com/in/pablo-roger-vico/" style="color: #2aa889"> LinkedIn Profile</a>**
+- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/pablo-roger-vico/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,3 +47,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloroger&show_icons=true&locale=en&layout=compact&theme=gotham" alt="pabloroger" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabloroger&show_icons=true&locale=en&theme=gotham" alt="pabloroger" /></p>
+

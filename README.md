@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi 👋, I'm Pablo</h1>
-    <img src="https://media.licdn.com/dms/image/D4D03AQGskp-gUOEs0A/profile-displayphoto-shrink_400_400/0/1705580633046?e=1710979200&v=beta&t=mX3Pt3ibKobbXA1Jg5fDvhapLoiNqNsTIh1uLL_Gh98" width="200px" style="border-radius: 100%" height="200">
+    <img src="resources/redonda.png" width="200px" style="border-radius: 100%" height="200">
     <h3>A Junior Software Developer</h3>
     <h5>and Graphic Designer</h5>
     <h6>🇪🇸🇬🇧</h6>

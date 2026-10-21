@@ -25,31 +25,30 @@
 - 🤖 Ahora estoy dando el salto al **AI Engineering**: integración de LLMs en aplicaciones reales, RAG y agentes.
 
 ---
-<div align="center">
-  ### 🧰 Tecnologías
-  
-  **Frontend**
-  
-  <p>
-    <img src="https://skillicons.dev/icons?i=angular,ts,vitest" alt="Frontend">
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine">
-    <img src="https://img.shields.io/badge/Karma-56C5A8?style=for-the-badge&logo=karma&logoColor=white" alt="Karma">
-  </p>
-  
-  **Backend**
-  
-  <p>
-    <img src="https://skillicons.dev/icons?i=spring,python,kotlin" alt="Backend">
-  </p>
-  
-  **DevOps**
-  
-  <p>
-    <img src="https://skillicons.dev/icons?i=docker,githubactions,linux" alt="DevOps">
-  </p>
-</div>
+### 🧰 Tecnologías
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,vitest" alt="Frontend">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine">
+  <img src="https://img.shields.io/badge/Karma-56C5A8?style=for-the-badge&logo=karma&logoColor=white" alt="Karma">
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,python,kotlin" alt="Backend">
+</p>
+
+**DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux" alt="DevOps">
+</p>
+
 ---
 
 <p align="center">

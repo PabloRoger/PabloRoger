@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Pablo 👋</h1>
-
+<img src="resources/redonda.png" width="200px" style="border-radius: 100%" height="200">
 <p align="center">
   <b>Full Stack Developer · Spring & Angular</b><br>
   Reenfocando mi carrera hacia el <b>AI Engineering</b> 🤖
@@ -57,11 +57,7 @@
 ### 📊 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Lenguajes más usados">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloroger&show_icons=true&locale=en&layout=compact" alt="pabloroger" />
 </p>
 
 ---
-
-<p align="center">
-  💬 ¿Hablamos? Escríbeme por <a href="https://www.linkedin.com/in/pablo-roger-vico">LinkedIn</a>.
-</p>

@@ -1,10 +1,11 @@
-<h1 align="center">Hola, soy Pablo 👋</h1>
-<img src="resources/redonda.png" width="200px" style="border-radius: 100%" height="200">
-<p align="center">
-  <b>Full Stack Developer · Spring & Angular</b><br>
-  Reenfocando mi carrera hacia el <b>AI Engineering</b> 🤖
-</p>
-
+<div align="center">
+  <h1 align="center">Hola, soy Pablo 👋</h1>
+  <img src="resources/redonda.png" width="200px" style="border-radius: 100%" height="200">
+  <p align="center">
+    <b>Full Stack Developer · Spring & Angular | UI/UX</b><br>
+    Reenfocando mi carrera hacia el <b>AI Engineering</b> 🤖
+  </p>
+</div>
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-roger-vico">
     <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Roger%20Vico-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -22,7 +23,6 @@
   - 🧪 **Testing** y calidad del código
   - 📋 **Gestión del proyecto**: planificación, reparto de tareas y estimaciones
 - 🤖 Ahora estoy dando el salto al **AI Engineering**: integración de LLMs en aplicaciones reales, RAG y agentes.
-- 🌱 Me interesa construir productos con IA que lleguen a producción, no solo prototipos.
 
 ---
 

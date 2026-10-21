@@ -1,50 +1,67 @@
-<div align="center">
-    <h1>Hi 👋, I'm Pablo</h1>
-    <img src="resources/redonda.png" width="200px" style="border-radius: 100%" height="200">
-    <h3>A Junior Software Developer</h3>
-    <h5>and Graphic Designer</h5>
-    <h6>🇪🇸🇬🇧</h6>
-</div>
+<h1 align="center">Hola, soy Pablo 👋</h1>
 
-
-- 🔭 I’m currently working on <a href="https://www.novatec-gmbh.de/es/" style="color: #2aa889">[Novatec](https://www.novatec-gmbh.de/es/) </a>
-
-- 🌱 I’m currently learning **Angular, RabbitMQ, Quarkus, Spring**
-
-- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/PabloRoger)
-
-- 📫 How to reach me **parovi97@gmail.com**
-
-- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/pablo-roger-vico/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pabloroger9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pabloroger9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pablo-roger-vico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-roger-vico" height="30" width="40" /></a>
+<p align="center">
+  <b>Full Stack Developer · Spring & Angular</b><br>
+  Reenfocando mi carrera hacia el <b>AI Engineering</b> 🤖
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p >
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pablo-roger-vico">
+    <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Roger%20Vico-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
+
+---
+
+### 🧑‍💻 Sobre mí
+
+- 🛠️ Desarrollador **full stack**: backend con **Java + Spring** y frontend con **Angular**.
+- 🚀 Este último año he **liderado un proyecto de principio a fin**, así que además de programar me he encargado de:
+  - ☁️ **Infraestructura y configuración** de entornos
+  - 🔁 **CI/CD** y **despliegues**
+  - 🧪 **Testing** y calidad del código
+  - 📋 **Gestión del proyecto**: planificación, reparto de tareas y estimaciones
+- 🤖 Ahora estoy dando el salto al **AI Engineering**: integración de LLMs en aplicaciones reales, RAG y agentes.
+- 🌱 Me interesa construir productos con IA que lleguen a producción, no solo prototipos.
+
+---
+
+### 🧰 Tecnologías
+
+**Backend**
+
 <p>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    <a href="https://es.quarkus.io" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354245/quarkus-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql" alt="Backend">
 </p>
+
+**Frontend**
+
 <p>
-    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" alt="Frontend">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloroger&show_icons=true&locale=en&layout=compact&theme=gotham" alt="pabloroger" /></p>
+**DevOps y herramientas**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabloroger&show_icons=true&locale=en&theme=gotham" alt="pabloroger" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux" alt="DevOps">
+</p>
 
+**Aprendiendo ahora 🤖**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" alt="AI">
+</p>
+
+---
+
+### 📊 Lenguajes más usados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Lenguajes más usados">
+</p>
+
+---
+
+<p align="center">
+  💬 ¿Hablamos? Escríbeme por <a href="https://www.linkedin.com/in/pablo-roger-vico">LinkedIn</a>.
+</p>

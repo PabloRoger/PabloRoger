@@ -28,28 +28,26 @@
 
 ### 🧰 Tecnologías
 
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql" alt="Backend">
-</p>
-
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" alt="Frontend">
+  <img src="https://skillicons.dev/icons?i=angular,ts,vitest" alt="Frontend">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine">
+  <img src="https://img.shields.io/badge/Karma-56C5A8?style=for-the-badge&logo=karma&logoColor=white" alt="Karma">
 </p>
 
-**DevOps y herramientas**
+**Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux" alt="DevOps">
+  <img src="https://skillicons.dev/icons?i=spring,python,kotlin" alt="Backend">
 </p>
 
-**Aprendiendo ahora 🤖**
+**DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch" alt="AI">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux" alt="DevOps">
 </p>
 
 ---
@@ -57,7 +55,10 @@
 ### 📊 Lenguajes más usados
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloroger&show_icons=true&locale=en&layout=compact" alt="pabloroger" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pabloroger&layout=compact&locale=es&theme=dark&bg_color=00000000&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloroger&layout=compact&locale=es&bg_color=00000000&hide_border=true" alt="Lenguajes más usados">
+  </picture>
 </p>
 
 ---

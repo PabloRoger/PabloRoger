@@ -52,11 +52,9 @@
 
 ---
 
-### 📊 Lenguajes más usados
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pabloroger&layout=compact&locale=es&theme=dark&bg_color=00000000&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pabloroger&layout=compact&locale=es&theme=dark&bg_color=00000000&hide_border=false">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloroger&layout=compact&locale=es&bg_color=00000000&hide_border=true" alt="Lenguajes más usados">
   </picture>
 </p>
